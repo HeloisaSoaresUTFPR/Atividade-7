@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/HeloisaSoaresUtpr/Atividade-7.svg?branch=master)](https://travis-ci.com/HeloisaSoaresUtpr/Atividade-7)
